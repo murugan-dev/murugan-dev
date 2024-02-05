@@ -7,6 +7,14 @@
   ## 🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murugan-mk/)
 
+ # 💥 PROJECT 💥
+## Dictionary App :: [here](https://dictionary-app-ten-smoky.vercel.app/)
+## React counter :: [here](https://react-counter-coral-one.vercel.app/)
+## Digital clock :: [here](https://digital-clock-henna-two.vercel.app/)
+## To-Do-List :: [here](https://to-do-list-blue-seven.vercel.app/)
+## Text-game :: [here](https://text-game-two.vercel.app/)
+## skeleton-loading :: [here](https://skeleton-loading-effect.vercel.app/)
+
   # 💻 Tech Stack:
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
