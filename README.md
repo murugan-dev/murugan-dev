@@ -8,6 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murugan-mk/)
 
  # 💥 PROJECT 💥
+## Pinterest-UI :: [here](https://pinterest-ui-clone-iota.vercel.app/) 
 ## Dictionary App :: [here](https://dictionary-app-ten-smoky.vercel.app/)
 ## React counter :: [here](https://react-counter-coral-one.vercel.app/)
 ## Digital clock :: [here](https://digital-clock-henna-two.vercel.app/)
